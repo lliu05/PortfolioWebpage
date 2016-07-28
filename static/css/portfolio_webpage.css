@@ -1,0 +1,155 @@
+body {
+  background-color: #d9d9d9;
+}
+
+.con-boss {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: auto;
+}
+
+.sec-home {
+  background-image: url("http://b.zol-img.com.cn/desk/bizhi/image/5/1680x1050/1416551633776.jpg");
+  background-position: center top;
+}
+
+.navbar {
+  margin: 5%;
+  margin-top: 40px;
+}
+
+.home-j {
+  text-align: center;
+  margin: 10%;
+  margin-top: 10%;
+  margin-bottom: 20%;
+}
+
+.transparent {
+  background-color: rgba(250, 250, 250, 0.8);  
+}
+
+.list-inline {
+  padding: 5px;
+}
+
+.btn {
+  margin: 5px;
+  margin-bottom: 20px;
+}
+
+.sec-about {
+  background-image: url("http://b.zol-img.com.cn/desk/bizhi/image/4/1680x1050/1394452116550.jpg");
+  background-position: center;
+}
+
+.about-content {
+  margin-left: 40px;
+}
+
+.s-about-space {
+  margin-top: 15%;
+  margin-bottom: 15%;
+}
+
+.section-heading {
+  color: grey;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.about-p {
+  color: #FFFFFF;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  margin: 10px;
+  line-height: 170%;
+}
+
+.big-head {
+  width: 280px;
+  margin-top: 10%;
+  margin-left: 30%;
+}
+
+.sec-portfolio {
+  background-image: url("http://b.zol-img.com.cn/desk/bizhi/image/6/1920x1080/1428461682408.jpg");
+}
+
+.sec-port-inner1 {
+  margin-top: 10%;
+}
+
+.port-title {
+  margin-bottom: 25px;
+}
+
+.port-h2 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+.port-h3 {
+  color: grey;
+  font-size: 30px;
+  text-align: center;
+}
+
+.sec-port-inner2 {
+  margin-top: 50px;
+  display: table;
+}
+
+.sec-port-inner2-bottom {
+  margin-bottom: 100px
+}
+
+.port-n {
+  display: table-cell;
+  width: 30%;
+  padding: 25px;
+}
+
+.port-n-h {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+.port-n-img {
+  padding-bottom: 15px;
+  height: auto;
+  display: block;
+  max-width: 100%;
+  border-radius: 20%;
+}
+
+.sec-contacts {
+  background-image: url("http://b.zol-img.com.cn/desk/bizhi/image/5/1920x1080/1401087082188.jpg");
+}
+
+.s-contacts-email {
+  color: dark-grey;
+  font-size: 25px;
+  line-height: 120%;
+  margin: 50px;
+  margin-top: 40%;
+  margin-bottom: 50%;
+}
+
+.contacts-social-button {
+  margin: 20px;
+  margin-top: 40%; 
+}
+
+.the-footer {
+  margin: 5%;
+  margin-left: 0%;
+}
+
+.copyright {
+  margin-top: 2%;
+}
+
