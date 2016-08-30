@@ -103,27 +103,34 @@ body {
 }
 
 .sec-port-inner2-bottom {
-  margin-bottom: 100px
+  margin-bottom: 50px
 }
 
 .port-n {
   display: table-cell;
-  width: 30%;
-  padding: 25px;
+  width: 28%;
+  padding: 0px 50px 0px 50px;
+
 }
 
 .port-n-h {
   color: white;
   font-size: 25px;
   text-align: center;
+  
 }
 
 .port-n-img {
   padding-bottom: 15px;
   height: auto;
   display: block;
-  max-width: 100%;
-  border-radius: 20%;
+  border-radius: 20%;  
+}
+
+.view-more { 
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 35px;
 }
 
 .sec-contacts {
