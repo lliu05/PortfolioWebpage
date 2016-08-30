@@ -5,4 +5,4 @@ var app = express();
 app.use(express.static(path.join(__dirname, 'static/html')));
 app.use(express.static(path.join(__dirname, 'static/css')));
 
-app.listen(8000);
+app.listen(process.env.PORT);
