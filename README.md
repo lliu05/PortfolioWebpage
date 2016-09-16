@@ -1,4 +1,4 @@
-#A Personal Portfolio Webpage
+# A Personal Portfolio Webpage
 
 User Story: I can access all of the portfolio webpage's content just by scrolling.
 
