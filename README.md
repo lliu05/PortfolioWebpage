@@ -1,5 +1,7 @@
 # Build a Personal Portfolio Webpage
 
+[![Code Climate](https://codeclimate.com/github/lliu05/PortfolioWebpage/badges/gpa.svg)](https://codeclimate.com/github/lliu05/PortfolioWebpage)
+
 User Story: I can access all of the portfolio webpage's content just by scrolling.
 
 User Story: I can click different buttons that will take me to the portfolio creator's different social media pages.
